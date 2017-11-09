@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="aptitude_header">
+        How well would you rate yourself to be in these areas? <br/>
+        (1 worst - 5 best)
+    </string>
+
+</resources>

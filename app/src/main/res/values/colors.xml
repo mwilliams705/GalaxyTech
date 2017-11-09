@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="GALAXY_PURPLE">#6d006d</color>
+    <color name="GALAXY_GREEN">#00a297</color>
+
+    <color name="black">#ba060606</color>
+    <color name="toolbar_black">#080808</color>
+    <color name="black_semi_transparent">#ba000000</color>
+    <color name="background">#ba101010</color>
+    <color name="half_black">#808080</color>
+    <color name="dark_grey">#555</color>
+    <color name="dark_grey_pressed">#444</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+
+    <color name="facebookBlue">#3B5998</color>
+
+
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GalaxyTech</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="channelDesc">Welcome to galaxyTech</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+
+    <!--Facebook Strings-->
+    <string name="facebook_app_id">1469282673141536</string>
+    <string name="fb_login_protocol_scheme">fb1469282673141536</string>
+
+</resources>
